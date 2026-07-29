@@ -1,0 +1,14 @@
+{
+  "moving_average": {
+    "short_window": 50,
+    "long_window": 150
+  },
+  "momentum": {
+    "lookback_window": 126
+  },
+  "mean_reversion": {
+    "lookback_window": 20,
+    "entry_z_score": 1.5,
+    "exit_z_score": 0.5
+  }
+}
